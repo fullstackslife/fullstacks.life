@@ -1,0 +1,11 @@
+{
+  "domain": "FullStacks.life",
+  "theme": "default",
+  "features": [],
+  "integrations": {
+    "brevo": {
+      "enabled": false,
+      "form_id": ""
+    }
+  }
+}
